@@ -1,16 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov  1 14:39:59 2019
+Script used to evaluate classifier accuracy
 
 @author: Brian
 """
 
-# -*- coding: utf-8 -*-
-"""
-Script used to evaluate classifier accuracy
-
-@author: Kevin S. Xu
-"""
 
 import numpy as np
 import matplotlib.pyplot as pl
