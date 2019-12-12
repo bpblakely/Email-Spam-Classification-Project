@@ -2,6 +2,8 @@
 """
 Created on Tue Oct 22 15:09:43 2019
 
+Final code used for email spam classifcation
+
 @author: Brian Blakely
 """
 
